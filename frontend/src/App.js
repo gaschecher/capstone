@@ -179,7 +179,7 @@ function App() {
           }}
           icon={<InfoIcon sx={{ color: '#d32f2f' }} />}
         >
-          🔍 IMPORTANT: All metrics are provided at the Metropolitan Statistical Area (MSA) level, meaning nearby ZIP codes in the same metro area will share similar values. The models are regularly retrained on the latest Zillow data to ensure recommendations stay current with market conditions. 📊
+          🔍 IMPORTANT: All metrics are provided at the Metropolitan Statistical Area (MSA) level, meaning nearby ZIP codes in the same metro area will share similar values. 📊
         </Alert>
 
         <MSIScatterPlot stateCode={stateCode} />
