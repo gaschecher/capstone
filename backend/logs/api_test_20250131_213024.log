@@ -1,0 +1,208 @@
+2025-01-31 21:30:24,251 - INFO - Starting API Tests
+2025-01-31 21:30:24,252 - INFO - Found 50 states with data
+2025-01-31 21:30:24,252 - INFO - Total ZIP codes available: 20293
+2025-01-31 21:30:26,299 - INFO - 
+Running 5 random tests for each endpoint...
+2025-01-31 21:30:26,299 - INFO - 
+==================================================
+Testing State Recommendations: KY
+2025-01-31 21:30:28,355 - INFO - Status Code: 200
+2025-01-31 21:30:28,355 - INFO - Total Recommendations: 328
+2025-01-31 21:30:28,355 - INFO - 
+State Summary Statistics:
+2025-01-31 21:30:28,356 - INFO - Average Home Value: $238,482.59
+2025-01-31 21:30:28,357 - INFO - Average Rent: $52.02
+2025-01-31 21:30:28,357 - INFO - Average Investment Score: 0.493
+2025-01-31 21:30:28,357 - INFO - 
+Top 3 Recommendations:
+2025-01-31 21:30:28,358 - INFO - 
+Rank 1:
+2025-01-31 21:30:28,358 - INFO - ZIP Code: 41014
+2025-01-31 21:30:28,358 - INFO - City: COVINGTON, KY
+2025-01-31 21:30:28,358 - INFO - Home Value: $291,466.62
+2025-01-31 21:30:28,358 - INFO - Monthly Rent: $71.00
+2025-01-31 21:30:28,358 - INFO - Investment Score: 0.860
+2025-01-31 21:30:28,358 - INFO - Market Heat: 51.0
+2025-01-31 21:30:28,358 - INFO - 
+Rank 2:
+2025-01-31 21:30:28,359 - INFO - ZIP Code: 41015
+2025-01-31 21:30:28,359 - INFO - City: LATONIA, KY
+2025-01-31 21:30:28,359 - INFO - Home Value: $291,466.62
+2025-01-31 21:30:28,359 - INFO - Monthly Rent: $71.00
+2025-01-31 21:30:28,359 - INFO - Investment Score: 0.860
+2025-01-31 21:30:28,359 - INFO - Market Heat: 51.0
+2025-01-31 21:30:28,359 - INFO - 
+Rank 3:
+2025-01-31 21:30:28,359 - INFO - ZIP Code: 41042
+2025-01-31 21:30:28,359 - INFO - City: FLORENCE, KY
+2025-01-31 21:30:28,360 - INFO - Home Value: $291,466.62
+2025-01-31 21:30:28,360 - INFO - Monthly Rent: $71.00
+2025-01-31 21:30:28,360 - INFO - Investment Score: 0.860
+2025-01-31 21:30:28,360 - INFO - Market Heat: 51.0
+2025-01-31 21:30:28,360 - INFO - 
+==================================================
+Testing State Recommendations: IA
+2025-01-31 21:30:30,445 - INFO - Status Code: 200
+2025-01-31 21:30:30,446 - INFO - Total Recommendations: 310
+2025-01-31 21:30:30,447 - INFO - 
+State Summary Statistics:
+2025-01-31 21:30:30,447 - INFO - Average Home Value: $253,811.20
+2025-01-31 21:30:30,447 - INFO - Average Rent: $41.14
+2025-01-31 21:30:30,448 - INFO - Average Investment Score: 0.275
+2025-01-31 21:30:30,448 - INFO - 
+Top 3 Recommendations:
+2025-01-31 21:30:30,448 - INFO - 
+Rank 1:
+2025-01-31 21:30:30,448 - INFO - ZIP Code: 51104
+2025-01-31 21:30:30,448 - INFO - City: SIOUX CITY, IA
+2025-01-31 21:30:30,448 - INFO - Home Value: $204,851.08
+2025-01-31 21:30:30,449 - INFO - Monthly Rent: $68.00
+2025-01-31 21:30:30,449 - INFO - Investment Score: 0.570
+2025-01-31 21:30:30,449 - INFO - Market Heat: 41.0
+2025-01-31 21:30:30,449 - INFO - 
+Rank 2:
+2025-01-31 21:30:30,449 - INFO - ZIP Code: 51052
+2025-01-31 21:30:30,449 - INFO - City: SALIX, IA
+2025-01-31 21:30:30,449 - INFO - Home Value: $204,851.08
+2025-01-31 21:30:30,450 - INFO - Monthly Rent: $68.00
+2025-01-31 21:30:30,450 - INFO - Investment Score: 0.570
+2025-01-31 21:30:30,450 - INFO - Market Heat: 41.0
+2025-01-31 21:30:30,450 - INFO - 
+Rank 3:
+2025-01-31 21:30:30,450 - INFO - ZIP Code: 51111
+2025-01-31 21:30:30,451 - INFO - City: SIOUX CITY, IA
+2025-01-31 21:30:30,451 - INFO - Home Value: $204,851.08
+2025-01-31 21:30:30,451 - INFO - Monthly Rent: $68.00
+2025-01-31 21:30:30,451 - INFO - Investment Score: 0.570
+2025-01-31 21:30:30,452 - INFO - Market Heat: 41.0
+2025-01-31 21:30:30,452 - INFO - 
+==================================================
+Testing State Recommendations: MI
+2025-01-31 21:30:32,549 - INFO - Status Code: 200
+2025-01-31 21:30:32,549 - INFO - Total Recommendations: 595
+2025-01-31 21:30:32,550 - INFO - 
+State Summary Statistics:
+2025-01-31 21:30:32,550 - INFO - Average Home Value: $256,101.97
+2025-01-31 21:30:32,550 - INFO - Average Rent: $64.68
+2025-01-31 21:30:32,550 - INFO - Average Investment Score: 0.818
+2025-01-31 21:30:32,550 - INFO - 
+Top 3 Recommendations:
+2025-01-31 21:30:32,551 - INFO - 
+Rank 1:
+2025-01-31 21:30:32,552 - INFO - ZIP Code: 48808
+2025-01-31 21:30:32,552 - INFO - City: BATH, MI
+2025-01-31 21:30:32,552 - INFO - Home Value: $224,729.13
+2025-01-31 21:30:32,552 - INFO - Monthly Rent: $73.00
+2025-01-31 21:30:32,552 - INFO - Investment Score: 0.976
+2025-01-31 21:30:32,552 - INFO - Market Heat: 60.0
+2025-01-31 21:30:32,552 - INFO - 
+Rank 2:
+2025-01-31 21:30:32,553 - INFO - ZIP Code: 48854
+2025-01-31 21:30:32,553 - INFO - City: MASON, MI
+2025-01-31 21:30:32,553 - INFO - Home Value: $224,729.13
+2025-01-31 21:30:32,553 - INFO - Monthly Rent: $73.00
+2025-01-31 21:30:32,553 - INFO - Investment Score: 0.976
+2025-01-31 21:30:32,553 - INFO - Market Heat: 60.0
+2025-01-31 21:30:32,553 - INFO - 
+Rank 3:
+2025-01-31 21:30:32,553 - INFO - ZIP Code: 48864
+2025-01-31 21:30:32,553 - INFO - City: OKEMOS, MI
+2025-01-31 21:30:32,554 - INFO - Home Value: $224,729.13
+2025-01-31 21:30:32,554 - INFO - Monthly Rent: $73.00
+2025-01-31 21:30:32,554 - INFO - Investment Score: 0.976
+2025-01-31 21:30:32,555 - INFO - Market Heat: 60.0
+2025-01-31 21:30:32,555 - INFO - 
+==================================================
+Testing State Recommendations: AZ
+2025-01-31 21:30:34,617 - INFO - Status Code: 200
+2025-01-31 21:30:34,617 - INFO - Total Recommendations: 395
+2025-01-31 21:30:34,617 - INFO - 
+State Summary Statistics:
+2025-01-31 21:30:34,618 - INFO - Average Home Value: $422,238.32
+2025-01-31 21:30:34,618 - INFO - Average Rent: $27.02
+2025-01-31 21:30:34,618 - INFO - Average Investment Score: 0.054
+2025-01-31 21:30:34,618 - INFO - 
+Top 3 Recommendations:
+2025-01-31 21:30:34,618 - INFO - 
+Rank 1:
+2025-01-31 21:30:34,619 - INFO - ZIP Code: 85365
+2025-01-31 21:30:34,619 - INFO - City: YUMA, AZ
+2025-01-31 21:30:34,619 - INFO - Home Value: $280,923.19
+2025-01-31 21:30:34,619 - INFO - Monthly Rent: $25.00
+2025-01-31 21:30:34,619 - INFO - Investment Score: 0.051
+2025-01-31 21:30:34,619 - INFO - Market Heat: 46.0
+2025-01-31 21:30:34,619 - INFO - 
+Rank 2:
+2025-01-31 21:30:34,619 - INFO - ZIP Code: 85364
+2025-01-31 21:30:34,620 - INFO - City: YUMA, AZ
+2025-01-31 21:30:34,620 - INFO - Home Value: $280,923.19
+2025-01-31 21:30:34,620 - INFO - Monthly Rent: $25.00
+2025-01-31 21:30:34,620 - INFO - Investment Score: 0.051
+2025-01-31 21:30:34,620 - INFO - Market Heat: 46.0
+2025-01-31 21:30:34,620 - INFO - 
+Rank 3:
+2025-01-31 21:30:34,620 - INFO - ZIP Code: 85366
+2025-01-31 21:30:34,620 - INFO - City: YUMA, AZ
+2025-01-31 21:30:34,620 - INFO - Home Value: $280,923.19
+2025-01-31 21:30:34,621 - INFO - Monthly Rent: $25.00
+2025-01-31 21:30:34,621 - INFO - Investment Score: 0.051
+2025-01-31 21:30:34,621 - INFO - Market Heat: 46.0
+2025-01-31 21:30:34,621 - INFO - 
+==================================================
+Testing State Recommendations: IA
+2025-01-31 21:30:36,676 - INFO - Status Code: 200
+2025-01-31 21:30:36,676 - INFO - Total Recommendations: 310
+2025-01-31 21:30:36,677 - INFO - 
+State Summary Statistics:
+2025-01-31 21:30:36,677 - INFO - Average Home Value: $253,811.20
+2025-01-31 21:30:36,677 - INFO - Average Rent: $41.14
+2025-01-31 21:30:36,677 - INFO - Average Investment Score: 0.275
+2025-01-31 21:30:36,677 - INFO - 
+Top 3 Recommendations:
+2025-01-31 21:30:36,678 - INFO - 
+Rank 1:
+2025-01-31 21:30:36,678 - INFO - ZIP Code: 51104
+2025-01-31 21:30:36,678 - INFO - City: SIOUX CITY, IA
+2025-01-31 21:30:36,678 - INFO - Home Value: $204,851.08
+2025-01-31 21:30:36,678 - INFO - Monthly Rent: $68.00
+2025-01-31 21:30:36,679 - INFO - Investment Score: 0.570
+2025-01-31 21:30:36,679 - INFO - Market Heat: 41.0
+2025-01-31 21:30:36,679 - INFO - 
+Rank 2:
+2025-01-31 21:30:36,679 - INFO - ZIP Code: 51052
+2025-01-31 21:30:36,679 - INFO - City: SALIX, IA
+2025-01-31 21:30:36,679 - INFO - Home Value: $204,851.08
+2025-01-31 21:30:36,680 - INFO - Monthly Rent: $68.00
+2025-01-31 21:30:36,680 - INFO - Investment Score: 0.570
+2025-01-31 21:30:36,680 - INFO - Market Heat: 41.0
+2025-01-31 21:30:36,680 - INFO - 
+Rank 3:
+2025-01-31 21:30:36,680 - INFO - ZIP Code: 51111
+2025-01-31 21:30:36,680 - INFO - City: SIOUX CITY, IA
+2025-01-31 21:30:36,681 - INFO - Home Value: $204,851.08
+2025-01-31 21:30:36,681 - INFO - Monthly Rent: $68.00
+2025-01-31 21:30:36,681 - INFO - Investment Score: 0.570
+2025-01-31 21:30:36,681 - INFO - Market Heat: 41.0
+2025-01-31 21:30:36,681 - INFO - 
+==================================================
+Testing ZIP Analysis: 68042
+2025-01-31 21:30:38,706 - ERROR - Error testing ZIP analysis: 404 Client Error: NOT FOUND for url: http://localhost:5000/api/analysis/68042
+2025-01-31 21:30:38,707 - INFO - 
+==================================================
+Testing ZIP Analysis: 80938
+2025-01-31 21:30:40,736 - ERROR - Error testing ZIP analysis: 404 Client Error: NOT FOUND for url: http://localhost:5000/api/analysis/80938
+2025-01-31 21:30:40,737 - INFO - 
+==================================================
+Testing ZIP Analysis: 60440
+2025-01-31 21:30:42,769 - ERROR - Error testing ZIP analysis: 404 Client Error: NOT FOUND for url: http://localhost:5000/api/analysis/60440
+2025-01-31 21:30:42,770 - INFO - 
+==================================================
+Testing ZIP Analysis: 4048
+2025-01-31 21:30:44,799 - ERROR - Error testing ZIP analysis: 404 Client Error: NOT FOUND for url: http://localhost:5000/api/analysis/4048
+2025-01-31 21:30:44,800 - INFO - 
+==================================================
+Testing ZIP Analysis: 36526
+2025-01-31 21:30:46,846 - ERROR - Error testing ZIP analysis: 404 Client Error: NOT FOUND for url: http://localhost:5000/api/analysis/36526
+2025-01-31 21:30:46,848 - INFO - 
+Test results saved to test_results\api_test_results_20250131_213046.json
+2025-01-31 21:30:46,848 - INFO - API Tests Complete

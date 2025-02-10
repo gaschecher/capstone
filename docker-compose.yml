@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  frontend:
+    build: 
+      context: ./frontend
+      args:
+        - REACT_APP_API_URL=http://localhost:5000
+    ports:
+      - "3000:3000"
+    environment:
+      - REACT_APP_API_URL=http://localhost:5000
+    depends_on:
+      backend:
+        condition: service_healthy
+
+  backend:
+    build: ./backend
+    ports:
+      - "5000:5000"
+    environment:
+    # Can override it to use your custom environment by doing this MONGO_URI=mongodb://your-custom-mongodb-url docker-compose up
+    # see the README.md for more information
+      - MONGO_URI=${MONGO_URI:-mongodb://mongodb:27017/capstone}
+    depends_on:
+      mongodb:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "python -c 'import requests; requests.get(\"http://localhost:5000/health\")'" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    # volumes:
+      # - ./backend/data:/app/backend/data
+      # - ./backend/zillow-data:/app/backend/zillow-data
+
+  mongodb:
+    image: mongodb/mongodb-community-server:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
+volumes:
+  mongodb_data:

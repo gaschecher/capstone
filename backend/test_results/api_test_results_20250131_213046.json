@@ -1,0 +1,262 @@
+{
+  "timestamp": "2025-01-31T21:30:26.299788",
+  "state_tests": [
+    {
+      "status": "success",
+      "state": "KY",
+      "total_recommendations": 328,
+      "sample_data": [
+        {
+          "city": "COVINGTON",
+          "days_pending": 32.0,
+          "investment_score": 0.8596630985419144,
+          "market_heat": 51.0,
+          "median_home_value": 291466.62,
+          "median_rent": 71.0,
+          "price_cuts_percent": 0.3,
+          "price_to_rent": 342.1,
+          "ranking_score": 68.80676397613156,
+          "state": "KY",
+          "zip_code": "41014"
+        },
+        {
+          "city": "LATONIA",
+          "days_pending": 32.0,
+          "investment_score": 0.8596630985419144,
+          "market_heat": 51.0,
+          "median_home_value": 291466.62,
+          "median_rent": 71.0,
+          "price_cuts_percent": 0.3,
+          "price_to_rent": 342.1,
+          "ranking_score": 68.80676397613156,
+          "state": "KY",
+          "zip_code": "41015"
+        },
+        {
+          "city": "FLORENCE",
+          "days_pending": 32.0,
+          "investment_score": 0.8596630985419144,
+          "market_heat": 51.0,
+          "median_home_value": 291466.62,
+          "median_rent": 71.0,
+          "price_cuts_percent": 0.3,
+          "price_to_rent": 342.1,
+          "ranking_score": 68.80676397613156,
+          "state": "KY",
+          "zip_code": "41042"
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "state": "IA",
+      "total_recommendations": 310,
+      "sample_data": [
+        {
+          "city": "SIOUX CITY",
+          "days_pending": 46.0,
+          "investment_score": 0.5700735527124949,
+          "market_heat": 41.0,
+          "median_home_value": 204851.08,
+          "median_rent": 68.0,
+          "price_cuts_percent": 0.3,
+          "price_to_rent": 251.04,
+          "ranking_score": 60.76518724364541,
+          "state": "IA",
+          "zip_code": "51104"
+        },
+        {
+          "city": "SALIX",
+          "days_pending": 46.0,
+          "investment_score": 0.5700735527124949,
+          "market_heat": 41.0,
+          "median_home_value": 204851.08,
+          "median_rent": 68.0,
+          "price_cuts_percent": 0.3,
+          "price_to_rent": 251.04,
+          "ranking_score": 60.76518724364541,
+          "state": "IA",
+          "zip_code": "51052"
+        },
+        {
+          "city": "SIOUX CITY",
+          "days_pending": 46.0,
+          "investment_score": 0.5700735527124949,
+          "market_heat": 41.0,
+          "median_home_value": 204851.08,
+          "median_rent": 68.0,
+          "price_cuts_percent": 0.3,
+          "price_to_rent": 251.04,
+          "ranking_score": 60.76518724364541,
+          "state": "IA",
+          "zip_code": "51111"
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "state": "MI",
+      "total_recommendations": 595,
+      "sample_data": [
+        {
+          "city": "BATH",
+          "days_pending": 32.0,
+          "investment_score": 0.975735105200523,
+          "market_heat": 60.0,
+          "median_home_value": 224729.13,
+          "median_rent": 73.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 256.54,
+          "ranking_score": 81.17307498522705,
+          "state": "MI",
+          "zip_code": "48808"
+        },
+        {
+          "city": "MASON",
+          "days_pending": 32.0,
+          "investment_score": 0.975735105200523,
+          "market_heat": 60.0,
+          "median_home_value": 224729.13,
+          "median_rent": 73.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 256.54,
+          "ranking_score": 81.17307498522705,
+          "state": "MI",
+          "zip_code": "48854"
+        },
+        {
+          "city": "OKEMOS",
+          "days_pending": 32.0,
+          "investment_score": 0.975735105200523,
+          "market_heat": 60.0,
+          "median_home_value": 224729.13,
+          "median_rent": 73.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 256.54,
+          "ranking_score": 81.17307498522705,
+          "state": "MI",
+          "zip_code": "48864"
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "state": "AZ",
+      "total_recommendations": 395,
+      "sample_data": [
+        {
+          "city": "YUMA",
+          "days_pending": 57.0,
+          "investment_score": 0.05058299675118226,
+          "market_heat": 46.0,
+          "median_home_value": 280923.19,
+          "median_rent": 25.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 936.41,
+          "ranking_score": 47.56174631826536,
+          "state": "AZ",
+          "zip_code": "85365"
+        },
+        {
+          "city": "YUMA",
+          "days_pending": 57.0,
+          "investment_score": 0.05058299675118226,
+          "market_heat": 46.0,
+          "median_home_value": 280923.19,
+          "median_rent": 25.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 936.41,
+          "ranking_score": 47.56174631826536,
+          "state": "AZ",
+          "zip_code": "85364"
+        },
+        {
+          "city": "YUMA",
+          "days_pending": 57.0,
+          "investment_score": 0.05058299675118226,
+          "market_heat": 46.0,
+          "median_home_value": 280923.19,
+          "median_rent": 25.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 936.41,
+          "ranking_score": 47.56174631826536,
+          "state": "AZ",
+          "zip_code": "85366"
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "state": "IA",
+      "total_recommendations": 310,
+      "sample_data": [
+        {
+          "city": "SIOUX CITY",
+          "days_pending": 46.0,
+          "investment_score": 0.5700735527124949,
+          "market_heat": 41.0,
+          "median_home_value": 204851.08,
+          "median_rent": 68.0,
+          "price_cuts_percent": 0.3,
+          "price_to_rent": 251.04,
+          "ranking_score": 60.76518724364541,
+          "state": "IA",
+          "zip_code": "51104"
+        },
+        {
+          "city": "SALIX",
+          "days_pending": 46.0,
+          "investment_score": 0.5700735527124949,
+          "market_heat": 41.0,
+          "median_home_value": 204851.08,
+          "median_rent": 68.0,
+          "price_cuts_percent": 0.3,
+          "price_to_rent": 251.04,
+          "ranking_score": 60.76518724364541,
+          "state": "IA",
+          "zip_code": "51052"
+        },
+        {
+          "city": "SIOUX CITY",
+          "days_pending": 46.0,
+          "investment_score": 0.5700735527124949,
+          "market_heat": 41.0,
+          "median_home_value": 204851.08,
+          "median_rent": 68.0,
+          "price_cuts_percent": 0.3,
+          "price_to_rent": 251.04,
+          "ranking_score": 60.76518724364541,
+          "state": "IA",
+          "zip_code": "51111"
+        }
+      ]
+    }
+  ],
+  "zip_tests": [
+    {
+      "status": "error",
+      "zip_code": 68042,
+      "error": "404 Client Error: NOT FOUND for url: http://localhost:5000/api/analysis/68042"
+    },
+    {
+      "status": "error",
+      "zip_code": 80938,
+      "error": "404 Client Error: NOT FOUND for url: http://localhost:5000/api/analysis/80938"
+    },
+    {
+      "status": "error",
+      "zip_code": 60440,
+      "error": "404 Client Error: NOT FOUND for url: http://localhost:5000/api/analysis/60440"
+    },
+    {
+      "status": "error",
+      "zip_code": 4048,
+      "error": "404 Client Error: NOT FOUND for url: http://localhost:5000/api/analysis/4048"
+    },
+    {
+      "status": "error",
+      "zip_code": 36526,
+      "error": "404 Client Error: NOT FOUND for url: http://localhost:5000/api/analysis/36526"
+    }
+  ]
+}

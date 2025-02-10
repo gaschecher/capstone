@@ -1,0 +1,342 @@
+{
+  "timestamp": "2025-01-31T21:31:36.760754",
+  "state_tests": [
+    {
+      "status": "success",
+      "state": "NJ",
+      "total_recommendations": 637,
+      "sample_data": [
+        {
+          "city": "DELMONT",
+          "days_pending": 54.0,
+          "investment_score": 0.9367422986405619,
+          "market_heat": 53.0,
+          "median_home_value": 253156.09,
+          "median_rent": 166.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 127.09,
+          "ranking_score": 78.18980092903071,
+          "state": "NJ",
+          "zip_code": "08314"
+        },
+        {
+          "city": "GREENWICH",
+          "days_pending": 54.0,
+          "investment_score": 0.9367422986405619,
+          "market_heat": 53.0,
+          "median_home_value": 253156.09,
+          "median_rent": 166.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 127.09,
+          "ranking_score": 78.18980092903071,
+          "state": "NJ",
+          "zip_code": "08323"
+        },
+        {
+          "city": "VINELAND",
+          "days_pending": 54.0,
+          "investment_score": 0.9367422986405619,
+          "market_heat": 53.0,
+          "median_home_value": 253156.09,
+          "median_rent": 166.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 127.09,
+          "ranking_score": 78.18980092903071,
+          "state": "NJ",
+          "zip_code": "08362"
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "state": "PA",
+      "total_recommendations": 1245,
+      "sample_data": [
+        {
+          "city": "READING",
+          "days_pending": 22.0,
+          "investment_score": 0.9849149993804173,
+          "market_heat": 63.0,
+          "median_home_value": 290030.99,
+          "median_rent": 87.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 277.81,
+          "ranking_score": 81.04734945066059,
+          "state": "PA",
+          "zip_code": "19603"
+        },
+        {
+          "city": "READING",
+          "days_pending": 22.0,
+          "investment_score": 0.9849149993804173,
+          "market_heat": 63.0,
+          "median_home_value": 290030.99,
+          "median_rent": 87.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 277.81,
+          "ranking_score": 81.04734945066059,
+          "state": "PA",
+          "zip_code": "19612"
+        },
+        {
+          "city": "MERTZTOWN",
+          "days_pending": 22.0,
+          "investment_score": 0.9849149993804173,
+          "market_heat": 63.0,
+          "median_home_value": 290030.99,
+          "median_rent": 87.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 277.81,
+          "ranking_score": 81.04734945066059,
+          "state": "PA",
+          "zip_code": "19539"
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "state": "HI",
+      "total_recommendations": 47,
+      "sample_data": [
+        {
+          "city": "CAPTAIN COOK",
+          "days_pending": 73.0,
+          "investment_score": 0.02685262261299022,
+          "market_heat": 42.0,
+          "median_home_value": 563318.72,
+          "median_rent": 34.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 1380.68,
+          "ranking_score": 36.72138310849885,
+          "state": "HI",
+          "zip_code": "96704"
+        },
+        {
+          "city": "KEALAKEKUA",
+          "days_pending": 73.0,
+          "investment_score": 0.02685262261299022,
+          "market_heat": 42.0,
+          "median_home_value": 563318.72,
+          "median_rent": 34.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 1380.68,
+          "ranking_score": 36.72138310849885,
+          "state": "HI",
+          "zip_code": "96750"
+        },
+        {
+          "city": "VOLCANO",
+          "days_pending": 73.0,
+          "investment_score": 0.02685262261299022,
+          "market_heat": 42.0,
+          "median_home_value": 563318.72,
+          "median_rent": 34.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 1380.68,
+          "ranking_score": 36.72138310849885,
+          "state": "HI",
+          "zip_code": "96785"
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "state": "NJ",
+      "total_recommendations": 637,
+      "sample_data": [
+        {
+          "city": "DELMONT",
+          "days_pending": 54.0,
+          "investment_score": 0.9367422986405619,
+          "market_heat": 53.0,
+          "median_home_value": 253156.09,
+          "median_rent": 166.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 127.09,
+          "ranking_score": 78.18980092903071,
+          "state": "NJ",
+          "zip_code": "08314"
+        },
+        {
+          "city": "GREENWICH",
+          "days_pending": 54.0,
+          "investment_score": 0.9367422986405619,
+          "market_heat": 53.0,
+          "median_home_value": 253156.09,
+          "median_rent": 166.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 127.09,
+          "ranking_score": 78.18980092903071,
+          "state": "NJ",
+          "zip_code": "08323"
+        },
+        {
+          "city": "VINELAND",
+          "days_pending": 54.0,
+          "investment_score": 0.9367422986405619,
+          "market_heat": 53.0,
+          "median_home_value": 253156.09,
+          "median_rent": 166.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 127.09,
+          "ranking_score": 78.18980092903071,
+          "state": "NJ",
+          "zip_code": "08362"
+        }
+      ]
+    },
+    {
+      "status": "success",
+      "state": "KS",
+      "total_recommendations": 273,
+      "sample_data": [
+        {
+          "city": "SALINA",
+          "days_pending": 33.0,
+          "investment_score": 0.9940882824813319,
+          "market_heat": 58.0,
+          "median_home_value": 168584.61,
+          "median_rent": 95.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 147.88,
+          "ranking_score": 83.4384176646943,
+          "state": "KS",
+          "zip_code": "67401"
+        },
+        {
+          "city": "SALINA",
+          "days_pending": 33.0,
+          "investment_score": 0.9940882824813319,
+          "market_heat": 58.0,
+          "median_home_value": 168584.61,
+          "median_rent": 95.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 147.88,
+          "ranking_score": 83.4384176646943,
+          "state": "KS",
+          "zip_code": "67402"
+        },
+        {
+          "city": "ASSARIA",
+          "days_pending": 33.0,
+          "investment_score": 0.9940882824813319,
+          "market_heat": 58.0,
+          "median_home_value": 168584.61,
+          "median_rent": 95.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 147.88,
+          "ranking_score": 83.4384176646943,
+          "state": "KS",
+          "zip_code": "67416"
+        }
+      ]
+    }
+  ],
+  "zip_tests": [
+    {
+      "status": "success",
+      "zip_code": 55302,
+      "data": {
+        "city": "ANNANDALE",
+        "metrics": {
+          "days_pending": 52.0,
+          "market_heat": 63.0,
+          "median_home_value": 377560.04,
+          "median_rent": 44.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 715.08
+        },
+        "scores": {
+          "investment_score": 0.8016382041399571,
+          "ranking_score": 61.56444390087784
+        },
+        "state": "MN",
+        "zip_code": "55302"
+      }
+    },
+    {
+      "status": "success",
+      "zip_code": 20020,
+      "data": {
+        "city": "WASHINGTON",
+        "metrics": {
+          "days_pending": 34.0,
+          "market_heat": 68.0,
+          "median_home_value": 601061.8,
+          "median_rent": 68.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 736.6
+        },
+        "scores": {
+          "investment_score": 0.9798810879873726,
+          "ranking_score": 66.2573891033147
+        },
+        "state": "DC",
+        "zip_code": "20020"
+      }
+    },
+    {
+      "status": "success",
+      "zip_code": 68715,
+      "data": {
+        "city": "BATTLE CREEK",
+        "metrics": {
+          "days_pending": 51.0,
+          "market_heat": 23.0,
+          "median_home_value": 234155.92,
+          "median_rent": 25.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 780.52
+        },
+        "scores": {
+          "investment_score": 0.07793188215059375,
+          "ranking_score": 39.03739346441352
+        },
+        "state": "NE",
+        "zip_code": "68715"
+      }
+    },
+    {
+      "status": "success",
+      "zip_code": 64098,
+      "data": {
+        "city": "WESTON",
+        "metrics": {
+          "days_pending": 34.0,
+          "market_heat": 54.0,
+          "median_home_value": 301135.06,
+          "median_rent": 70.0,
+          "price_cuts_percent": 0.3,
+          "price_to_rent": 358.49
+        },
+        "scores": {
+          "investment_score": 0.8513297652085811,
+          "ranking_score": 71.32559676073363
+        },
+        "state": "MO",
+        "zip_code": "64098"
+      }
+    },
+    {
+      "status": "success",
+      "zip_code": 87508,
+      "data": {
+        "city": "SANTA FE",
+        "metrics": {
+          "days_pending": 67.0,
+          "market_heat": 40.0,
+          "median_home_value": 556636.34,
+          "median_rent": 21.0,
+          "price_cuts_percent": 0.2,
+          "price_to_rent": 2208.87
+        },
+        "scores": {
+          "investment_score": 0.0031302012263705894,
+          "ranking_score": 30.601467409060806
+        },
+        "state": "NM",
+        "zip_code": "87508"
+      }
+    }
+  ]
+}

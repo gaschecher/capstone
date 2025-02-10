@@ -1,0 +1,278 @@
+2025-01-31 21:31:34,713 - INFO - Starting API Tests
+2025-01-31 21:31:34,713 - INFO - Found 50 states with data
+2025-01-31 21:31:34,714 - INFO - Total ZIP codes available: 20293
+2025-01-31 21:31:36,760 - INFO - 
+Running 5 random tests for each endpoint...
+2025-01-31 21:31:36,760 - INFO - 
+==================================================
+Testing State Recommendations: NJ
+2025-01-31 21:31:38,844 - INFO - Status Code: 200
+2025-01-31 21:31:38,845 - INFO - Total Recommendations: 637
+2025-01-31 21:31:38,845 - INFO - 
+State Summary Statistics:
+2025-01-31 21:31:38,845 - INFO - Average Home Value: $590,300.22
+2025-01-31 21:31:38,846 - INFO - Average Rent: $38.73
+2025-01-31 21:31:38,846 - INFO - Average Investment Score: 0.511
+2025-01-31 21:31:38,847 - INFO - 
+Top 3 Recommendations:
+2025-01-31 21:31:38,847 - INFO - 
+Rank 1:
+2025-01-31 21:31:38,847 - INFO - ZIP Code: 08314
+2025-01-31 21:31:38,847 - INFO - City: DELMONT, NJ
+2025-01-31 21:31:38,847 - INFO - Home Value: $253,156.09
+2025-01-31 21:31:38,847 - INFO - Monthly Rent: $166.00
+2025-01-31 21:31:38,847 - INFO - Investment Score: 0.937
+2025-01-31 21:31:38,848 - INFO - Market Heat: 53.0
+2025-01-31 21:31:38,848 - INFO - 
+Rank 2:
+2025-01-31 21:31:38,848 - INFO - ZIP Code: 08323
+2025-01-31 21:31:38,848 - INFO - City: GREENWICH, NJ
+2025-01-31 21:31:38,848 - INFO - Home Value: $253,156.09
+2025-01-31 21:31:38,848 - INFO - Monthly Rent: $166.00
+2025-01-31 21:31:38,849 - INFO - Investment Score: 0.937
+2025-01-31 21:31:38,849 - INFO - Market Heat: 53.0
+2025-01-31 21:31:38,849 - INFO - 
+Rank 3:
+2025-01-31 21:31:38,849 - INFO - ZIP Code: 08362
+2025-01-31 21:31:38,849 - INFO - City: VINELAND, NJ
+2025-01-31 21:31:38,849 - INFO - Home Value: $253,156.09
+2025-01-31 21:31:38,849 - INFO - Monthly Rent: $166.00
+2025-01-31 21:31:38,849 - INFO - Investment Score: 0.937
+2025-01-31 21:31:38,850 - INFO - Market Heat: 53.0
+2025-01-31 21:31:38,850 - INFO - 
+==================================================
+Testing State Recommendations: PA
+2025-01-31 21:31:40,973 - INFO - Status Code: 200
+2025-01-31 21:31:40,974 - INFO - Total Recommendations: 1245
+2025-01-31 21:31:40,975 - INFO - 
+State Summary Statistics:
+2025-01-31 21:31:40,975 - INFO - Average Home Value: $264,179.94
+2025-01-31 21:31:40,975 - INFO - Average Rent: $61.59
+2025-01-31 21:31:40,975 - INFO - Average Investment Score: 0.850
+2025-01-31 21:31:40,975 - INFO - 
+Top 3 Recommendations:
+2025-01-31 21:31:40,975 - INFO - 
+Rank 1:
+2025-01-31 21:31:40,976 - INFO - ZIP Code: 19603
+2025-01-31 21:31:40,976 - INFO - City: READING, PA
+2025-01-31 21:31:40,976 - INFO - Home Value: $290,030.99
+2025-01-31 21:31:40,976 - INFO - Monthly Rent: $87.00
+2025-01-31 21:31:40,976 - INFO - Investment Score: 0.985
+2025-01-31 21:31:40,976 - INFO - Market Heat: 63.0
+2025-01-31 21:31:40,976 - INFO - 
+Rank 2:
+2025-01-31 21:31:40,977 - INFO - ZIP Code: 19612
+2025-01-31 21:31:40,977 - INFO - City: READING, PA
+2025-01-31 21:31:40,977 - INFO - Home Value: $290,030.99
+2025-01-31 21:31:40,977 - INFO - Monthly Rent: $87.00
+2025-01-31 21:31:40,977 - INFO - Investment Score: 0.985
+2025-01-31 21:31:40,977 - INFO - Market Heat: 63.0
+2025-01-31 21:31:40,977 - INFO - 
+Rank 3:
+2025-01-31 21:31:40,977 - INFO - ZIP Code: 19539
+2025-01-31 21:31:40,978 - INFO - City: MERTZTOWN, PA
+2025-01-31 21:31:40,978 - INFO - Home Value: $290,030.99
+2025-01-31 21:31:40,978 - INFO - Monthly Rent: $87.00
+2025-01-31 21:31:40,978 - INFO - Investment Score: 0.985
+2025-01-31 21:31:40,980 - INFO - Market Heat: 63.0
+2025-01-31 21:31:40,981 - INFO - 
+==================================================
+Testing State Recommendations: HI
+2025-01-31 21:31:43,015 - INFO - Status Code: 200
+2025-01-31 21:31:43,016 - INFO - Total Recommendations: 47
+2025-01-31 21:31:43,016 - INFO - 
+State Summary Statistics:
+2025-01-31 21:31:43,016 - INFO - Average Home Value: $783,970.26
+2025-01-31 21:31:43,016 - INFO - Average Rent: $30.94
+2025-01-31 21:31:43,016 - INFO - Average Investment Score: 0.036
+2025-01-31 21:31:43,016 - INFO - 
+Top 3 Recommendations:
+2025-01-31 21:31:43,016 - INFO - 
+Rank 1:
+2025-01-31 21:31:43,016 - INFO - ZIP Code: 96704
+2025-01-31 21:31:43,017 - INFO - City: CAPTAIN COOK, HI
+2025-01-31 21:31:43,017 - INFO - Home Value: $563,318.72
+2025-01-31 21:31:43,017 - INFO - Monthly Rent: $34.00
+2025-01-31 21:31:43,017 - INFO - Investment Score: 0.027
+2025-01-31 21:31:43,017 - INFO - Market Heat: 42.0
+2025-01-31 21:31:43,017 - INFO - 
+Rank 2:
+2025-01-31 21:31:43,017 - INFO - ZIP Code: 96750
+2025-01-31 21:31:43,017 - INFO - City: KEALAKEKUA, HI
+2025-01-31 21:31:43,018 - INFO - Home Value: $563,318.72
+2025-01-31 21:31:43,018 - INFO - Monthly Rent: $34.00
+2025-01-31 21:31:43,018 - INFO - Investment Score: 0.027
+2025-01-31 21:31:43,018 - INFO - Market Heat: 42.0
+2025-01-31 21:31:43,018 - INFO - 
+Rank 3:
+2025-01-31 21:31:43,019 - INFO - ZIP Code: 96785
+2025-01-31 21:31:43,019 - INFO - City: VOLCANO, HI
+2025-01-31 21:31:43,019 - INFO - Home Value: $563,318.72
+2025-01-31 21:31:43,019 - INFO - Monthly Rent: $34.00
+2025-01-31 21:31:43,019 - INFO - Investment Score: 0.027
+2025-01-31 21:31:43,019 - INFO - Market Heat: 42.0
+2025-01-31 21:31:43,019 - INFO - 
+==================================================
+Testing State Recommendations: NJ
+2025-01-31 21:31:45,094 - INFO - Status Code: 200
+2025-01-31 21:31:45,094 - INFO - Total Recommendations: 637
+2025-01-31 21:31:45,094 - INFO - 
+State Summary Statistics:
+2025-01-31 21:31:45,095 - INFO - Average Home Value: $590,300.22
+2025-01-31 21:31:45,095 - INFO - Average Rent: $38.73
+2025-01-31 21:31:45,095 - INFO - Average Investment Score: 0.511
+2025-01-31 21:31:45,095 - INFO - 
+Top 3 Recommendations:
+2025-01-31 21:31:45,095 - INFO - 
+Rank 1:
+2025-01-31 21:31:45,095 - INFO - ZIP Code: 08314
+2025-01-31 21:31:45,096 - INFO - City: DELMONT, NJ
+2025-01-31 21:31:45,096 - INFO - Home Value: $253,156.09
+2025-01-31 21:31:45,096 - INFO - Monthly Rent: $166.00
+2025-01-31 21:31:45,096 - INFO - Investment Score: 0.937
+2025-01-31 21:31:45,097 - INFO - Market Heat: 53.0
+2025-01-31 21:31:45,097 - INFO - 
+Rank 2:
+2025-01-31 21:31:45,097 - INFO - ZIP Code: 08323
+2025-01-31 21:31:45,097 - INFO - City: GREENWICH, NJ
+2025-01-31 21:31:45,097 - INFO - Home Value: $253,156.09
+2025-01-31 21:31:45,097 - INFO - Monthly Rent: $166.00
+2025-01-31 21:31:45,097 - INFO - Investment Score: 0.937
+2025-01-31 21:31:45,097 - INFO - Market Heat: 53.0
+2025-01-31 21:31:45,097 - INFO - 
+Rank 3:
+2025-01-31 21:31:45,098 - INFO - ZIP Code: 08362
+2025-01-31 21:31:45,098 - INFO - City: VINELAND, NJ
+2025-01-31 21:31:45,098 - INFO - Home Value: $253,156.09
+2025-01-31 21:31:45,098 - INFO - Monthly Rent: $166.00
+2025-01-31 21:31:45,098 - INFO - Investment Score: 0.937
+2025-01-31 21:31:45,098 - INFO - Market Heat: 53.0
+2025-01-31 21:31:45,098 - INFO - 
+==================================================
+Testing State Recommendations: KS
+2025-01-31 21:31:47,163 - INFO - Status Code: 200
+2025-01-31 21:31:47,164 - INFO - Total Recommendations: 273
+2025-01-31 21:31:47,164 - INFO - 
+State Summary Statistics:
+2025-01-31 21:31:47,164 - INFO - Average Home Value: $233,065.98
+2025-01-31 21:31:47,164 - INFO - Average Rent: $55.88
+2025-01-31 21:31:47,165 - INFO - Average Investment Score: 0.738
+2025-01-31 21:31:47,165 - INFO - 
+Top 3 Recommendations:
+2025-01-31 21:31:47,165 - INFO - 
+Rank 1:
+2025-01-31 21:31:47,165 - INFO - ZIP Code: 67401
+2025-01-31 21:31:47,165 - INFO - City: SALINA, KS
+2025-01-31 21:31:47,165 - INFO - Home Value: $168,584.61
+2025-01-31 21:31:47,165 - INFO - Monthly Rent: $95.00
+2025-01-31 21:31:47,165 - INFO - Investment Score: 0.994
+2025-01-31 21:31:47,165 - INFO - Market Heat: 58.0
+2025-01-31 21:31:47,166 - INFO - 
+Rank 2:
+2025-01-31 21:31:47,166 - INFO - ZIP Code: 67402
+2025-01-31 21:31:47,166 - INFO - City: SALINA, KS
+2025-01-31 21:31:47,166 - INFO - Home Value: $168,584.61
+2025-01-31 21:31:47,166 - INFO - Monthly Rent: $95.00
+2025-01-31 21:31:47,167 - INFO - Investment Score: 0.994
+2025-01-31 21:31:47,167 - INFO - Market Heat: 58.0
+2025-01-31 21:31:47,167 - INFO - 
+Rank 3:
+2025-01-31 21:31:47,167 - INFO - ZIP Code: 67416
+2025-01-31 21:31:47,167 - INFO - City: ASSARIA, KS
+2025-01-31 21:31:47,168 - INFO - Home Value: $168,584.61
+2025-01-31 21:31:47,168 - INFO - Monthly Rent: $95.00
+2025-01-31 21:31:47,168 - INFO - Investment Score: 0.994
+2025-01-31 21:31:47,168 - INFO - Market Heat: 58.0
+2025-01-31 21:31:47,168 - INFO - 
+==================================================
+Testing ZIP Analysis: 55302
+2025-01-31 21:31:49,209 - INFO - Status Code: 200
+2025-01-31 21:31:49,209 - INFO - 
+Location: ANNANDALE, MN
+2025-01-31 21:31:49,209 - INFO - 
+Key Metrics:
+2025-01-31 21:31:49,210 - INFO - Median Home Value: $377,560.04
+2025-01-31 21:31:49,210 - INFO - Monthly Rent: $44.00
+2025-01-31 21:31:49,210 - INFO - Days to Pending: 52.0
+2025-01-31 21:31:49,210 - INFO - Price Cuts %: 0.2%
+2025-01-31 21:31:49,210 - INFO - Market Heat: 63.0
+2025-01-31 21:31:49,210 - INFO - Price-to-Rent Ratio: 715.08
+2025-01-31 21:31:49,210 - INFO - 
+Scores:
+2025-01-31 21:31:49,210 - INFO - Investment Score: 0.802
+2025-01-31 21:31:49,211 - INFO - Ranking Score: 61.564
+2025-01-31 21:31:49,211 - INFO - 
+==================================================
+Testing ZIP Analysis: 20020
+2025-01-31 21:31:51,238 - INFO - Status Code: 200
+2025-01-31 21:31:51,238 - INFO - 
+Location: WASHINGTON, DC
+2025-01-31 21:31:51,238 - INFO - 
+Key Metrics:
+2025-01-31 21:31:51,239 - INFO - Median Home Value: $601,061.80
+2025-01-31 21:31:51,239 - INFO - Monthly Rent: $68.00
+2025-01-31 21:31:51,239 - INFO - Days to Pending: 34.0
+2025-01-31 21:31:51,239 - INFO - Price Cuts %: 0.2%
+2025-01-31 21:31:51,239 - INFO - Market Heat: 68.0
+2025-01-31 21:31:51,239 - INFO - Price-to-Rent Ratio: 736.60
+2025-01-31 21:31:51,239 - INFO - 
+Scores:
+2025-01-31 21:31:51,240 - INFO - Investment Score: 0.980
+2025-01-31 21:31:51,240 - INFO - Ranking Score: 66.257
+2025-01-31 21:31:51,240 - INFO - 
+==================================================
+Testing ZIP Analysis: 68715
+2025-01-31 21:31:53,276 - INFO - Status Code: 200
+2025-01-31 21:31:53,276 - INFO - 
+Location: BATTLE CREEK, NE
+2025-01-31 21:31:53,276 - INFO - 
+Key Metrics:
+2025-01-31 21:31:53,276 - INFO - Median Home Value: $234,155.92
+2025-01-31 21:31:53,276 - INFO - Monthly Rent: $25.00
+2025-01-31 21:31:53,277 - INFO - Days to Pending: 51.0
+2025-01-31 21:31:53,277 - INFO - Price Cuts %: 0.2%
+2025-01-31 21:31:53,277 - INFO - Market Heat: 23.0
+2025-01-31 21:31:53,277 - INFO - Price-to-Rent Ratio: 780.52
+2025-01-31 21:31:53,277 - INFO - 
+Scores:
+2025-01-31 21:31:53,277 - INFO - Investment Score: 0.078
+2025-01-31 21:31:53,278 - INFO - Ranking Score: 39.037
+2025-01-31 21:31:53,278 - INFO - 
+==================================================
+Testing ZIP Analysis: 64098
+2025-01-31 21:31:55,326 - INFO - Status Code: 200
+2025-01-31 21:31:55,326 - INFO - 
+Location: WESTON, MO
+2025-01-31 21:31:55,327 - INFO - 
+Key Metrics:
+2025-01-31 21:31:55,327 - INFO - Median Home Value: $301,135.06
+2025-01-31 21:31:55,327 - INFO - Monthly Rent: $70.00
+2025-01-31 21:31:55,327 - INFO - Days to Pending: 34.0
+2025-01-31 21:31:55,327 - INFO - Price Cuts %: 0.3%
+2025-01-31 21:31:55,327 - INFO - Market Heat: 54.0
+2025-01-31 21:31:55,327 - INFO - Price-to-Rent Ratio: 358.49
+2025-01-31 21:31:55,327 - INFO - 
+Scores:
+2025-01-31 21:31:55,328 - INFO - Investment Score: 0.851
+2025-01-31 21:31:55,328 - INFO - Ranking Score: 71.326
+2025-01-31 21:31:55,328 - INFO - 
+==================================================
+Testing ZIP Analysis: 87508
+2025-01-31 21:31:57,362 - INFO - Status Code: 200
+2025-01-31 21:31:57,363 - INFO - 
+Location: SANTA FE, NM
+2025-01-31 21:31:57,363 - INFO - 
+Key Metrics:
+2025-01-31 21:31:57,363 - INFO - Median Home Value: $556,636.34
+2025-01-31 21:31:57,363 - INFO - Monthly Rent: $21.00
+2025-01-31 21:31:57,364 - INFO - Days to Pending: 67.0
+2025-01-31 21:31:57,364 - INFO - Price Cuts %: 0.2%
+2025-01-31 21:31:57,364 - INFO - Market Heat: 40.0
+2025-01-31 21:31:57,364 - INFO - Price-to-Rent Ratio: 2208.87
+2025-01-31 21:31:57,364 - INFO - 
+Scores:
+2025-01-31 21:31:57,364 - INFO - Investment Score: 0.003
+2025-01-31 21:31:57,365 - INFO - Ranking Score: 30.601
+2025-01-31 21:31:57,367 - INFO - 
+Test results saved to test_results\api_test_results_20250131_213157.json
+2025-01-31 21:31:57,367 - INFO - API Tests Complete
